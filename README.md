@@ -2,7 +2,6 @@
 
 [![Java](https://img.shields.io/badge/Java-8%2B-orange)](https://www.java.com/)
 [![Swing](https://img.shields.io/badge/GUI-Swing-blue)](https://docs.oracle.com/javase/tutorial/uiswing/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A classic **Jungle Chess** (Dou Shou Qi / 斗兽棋) board game implemented in Java Swing. This project was created as a freshman-year course project, featuring a full graphical user interface, two game modes, save/load functionality, game replay, and more.
 
