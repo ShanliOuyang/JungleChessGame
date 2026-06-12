@@ -7,6 +7,19 @@ A classic **Jungle Chess** (Dou Shou Qi / 斗兽棋) board game implemented in J
 
 ---
 
+## Table of Contents
+- [🎮 Game Overview](#-game-overview)
+- [✨ Features](#-features)
+- [🏗️ Architecture](#-architecture)
+- [🧠 AI Algorithm](#-ai-algorithm)
+- [🔑 Key Algorithms](#-key-algorithms)
+- [🚀 Getting Started](#-getting-started)
+- [📁 Project Structure](#-project-structure)
+- [🎯 Game Rules Summary](#-game-rules-summary)
+- [📝 Development Notes](#-development-notes)
+
+---
+
 ## 🎮 Game Overview
 
 **Jungle Chess** (also known as *Dou Shou Qi* or *Animal Chess*) is a traditional two-player Chinese board game played on a **9×7** grid. Each player controls **8 animal pieces** of different ranks, aiming to move a piece into the opponent's den or capture all opponent pieces.
@@ -296,11 +309,7 @@ This project was developed as a **freshman-year course project** and represents 
 - Audio playback with Java Sound API
 - Enum-based terrain and constant management
 
----
 
-## 📄 License
-
-This project is available for educational purposes. Feel free to use, modify, and learn from it.
 
 ---
 
